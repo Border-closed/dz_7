@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/bin/Debug/net6.0/task_3_srznach
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/bin/Debug/net6.0/task_3_srznach.deps.json
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/bin/Debug/net6.0/task_3_srznach.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/bin/Debug/net6.0/task_3_srznach.dll
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/bin/Debug/net6.0/task_3_srznach.pdb
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.dll
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/refint/task_3_srznach.dll
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.pdb
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/task_3_srznach.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_7/task_3_srznach/obj/Debug/net6.0/ref/task_3_srznach.dll
