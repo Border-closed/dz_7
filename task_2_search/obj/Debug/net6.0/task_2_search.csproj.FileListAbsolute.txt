@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_2_search/bin/Debug/net6.0/task_2_search
+/Users/samisusami/Desktop/DZ_7/task_2_search/bin/Debug/net6.0/task_2_search.deps.json
+/Users/samisusami/Desktop/DZ_7/task_2_search/bin/Debug/net6.0/task_2_search.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_7/task_2_search/bin/Debug/net6.0/task_2_search.dll
+/Users/samisusami/Desktop/DZ_7/task_2_search/bin/Debug/net6.0/task_2_search.pdb
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.dll
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/refint/task_2_search.dll
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.pdb
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/task_2_search.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_7/task_2_search/obj/Debug/net6.0/ref/task_2_search.dll
