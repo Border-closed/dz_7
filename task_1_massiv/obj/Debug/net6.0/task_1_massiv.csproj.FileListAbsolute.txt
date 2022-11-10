@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/bin/Debug/net6.0/task_1_massiv
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/bin/Debug/net6.0/task_1_massiv.deps.json
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/bin/Debug/net6.0/task_1_massiv.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/bin/Debug/net6.0/task_1_massiv.dll
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/bin/Debug/net6.0/task_1_massiv.pdb
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.dll
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/refint/task_1_massiv.dll
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.pdb
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/task_1_massiv.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_7/task_1_massiv/obj/Debug/net6.0/ref/task_1_massiv.dll
